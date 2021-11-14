@@ -23,9 +23,3 @@
   <a href="https://www.linkedin.com/in/webert-maciel-572b6814b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href ="mailto:webert_maciel@hotmail.com"><img src = "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 </div>
- 
- ##
- 
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?Username=webertmaciel&repo=AllSystemWeb"/>
- 
