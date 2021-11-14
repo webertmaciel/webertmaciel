@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/webertmaciel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webertmaciel&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/ ? Username = anuraghazra & langs_count = 8 "/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webertmaciel&layout=compact)](https://github.com/webertmaciel/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="webert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
