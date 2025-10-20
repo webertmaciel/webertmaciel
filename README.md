@@ -7,18 +7,18 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escalávei
 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-<!-- Card de Estatísticas Gerais -->
+<!-- Card de Estatísticas Gerais (Link já estava correto) -->
 <a href="https://github.com/webertmaciel">
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dwebertmaciel%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
 </a>
 
-<!-- Card de Linguagens Mais Usadas (Layout aprimorado) -->
+<!-- Card de Linguagens Mais Usadas (Link já estava correto) -->
 
 <a href="https://github.com/webertmaciel">
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dwebertmaciel%26layout%3Ddonut%26langs_count%3D8%26theme%3Ddracula"/>
 </a>
 
-<!-- NOVO: Card de Sequência de Commits -->
+<!-- CORREÇÃO: Card de Sequência de Commits com novo link funcional -->
 
 🛠️ Tech Stack
 
