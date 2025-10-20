@@ -12,18 +12,26 @@
 
 <div align="center">
 
-<!-- INCREMENTO: Este é o card de estatísticas gerais, que funciona. -->
+<!-- CARD DE ESTATÍSTICAS GERAIS -->
 
 <a href="https://github.com/webertmaciel">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webertmaciel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 
-<!-- SEU CÓDIGO ORIGINAL: Este é o card que você corrigiu e já funciona. -->
+<!-- CARD DE LINGUAGENS -->
 
 <a href="https://github.com/webertmaciel">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webertmaciel&layout=compact&theme=algolia"/>
 </a>
 
+</div>
+
+<!-- INCREMENTO 1: GitHub Streak (Sequência de Contribuições) -->
+
+<div align="center" style="margin-top: 20px;">
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=webertmaciel&theme=algolia&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+</a>
 </div>
 
 🛠️ Tecnologias e Ferramentas
@@ -41,10 +49,19 @@
 <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
 </div>
 
+<!-- INCREMENTO 2: Gráfico de Contribuições -->
+
+📈 Minhas Contribuições
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=webertmaciel&bg_color=fffff0&color=24292e&line=d92323&point=24292e&area=true&hide_border=true" alt="Gráfico de Atividade" />
+</div>
+
 📫 Onde me encontrar
 
 <div align="center">
 <a href="https://www.instagram.com/webert_maciel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:webertmacie1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/webert-maciel-572b6814b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href ="mailto:webert_maciel@hotmail.com"><img src = "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
+<a href ="mailto:webert_maciel@hotmail.com"><img src = "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+</div>
