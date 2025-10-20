@@ -9,7 +9,7 @@
 <div align="center">
 <!-- INCREMENTO: Adicionei o card de estatísticas gerais que estava faltando -->
 <a href="https://github.com/webertmaciel">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dwebertmaciel%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webertmaciel&layout=compact&theme=algolia"/>
 </a>
 
 <!-- MELHORIA: Corrigi o tema do seu card de linguagens para um que funciona e combina -->
