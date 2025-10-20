@@ -1,20 +1,26 @@
-👋 Olá! Eu sou o Webert Maciel
+👋 Olá, eu sou o Webert Maciel!
 
-Desenvolvedor Full Stack apaixonado por transformar ideias em realidade através do código.
+<p align="left">
+Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis. Sempre em busca de novos desafios e aprendizados no mundo da tecnologia.
+</p>
 
-<!-- Seção Centralizada de Estatísticas do GitHub -->
+📊 Minhas Estatísticas no GitHub
 
 <div align="center">
+<!-- Card de Estatísticas Gerais -->
 <a href="https://github.com/webertmaciel">
-<!-- Card de Estatísticas Gerais (Tema corrigido para tokyonight) -->
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dwebertmaciel%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<!-- Card de Linguagens Mais Usadas (Tema corrigido e mais linguagens) -->
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dwebertmaciel%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight"/>
-</div>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dwebertmaciel%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+</a>
 
-🚀 Tecnologias e Ferramentas que utilizo:
+<!-- Card de Linguagens Mais Usadas (Layout aprimorado) -->
 
-<!-- Seção de Ícones de Tecnologias -->
+<a href="https://github.com/webertmaciel">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dwebertmaciel%26layout%3Ddonut%26langs_count%3D8%26theme%3Ddracula"/>
+</a>
+
+<!-- NOVO: Card de Sequência de Commits -->
+
+🛠️ Tech Stack
 
 <div style="display: inline_block;">
 
@@ -33,9 +39,7 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em realidade através
 <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB">
 </div>
 
-📫 Conecte-se comigo:
-
-<!-- Seção de Contato/Redes Sociais -->
+📫 Entre em Contato
 
 <p align="left">
 <a href="https://www.linkedin.com/in/webert-maciel-572b6814b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
